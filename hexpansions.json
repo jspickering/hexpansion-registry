@@ -37,5 +37,13 @@
     "description": "GPS receiver based on the L80RE-M37",
     "shop_link": "https://themachineshop.uk/product/gps-hexpansion/",
     "image_url": "images/GPS Hexpansion.png"
+  },
+  {
+    "maker": "Mallyhubz",
+    "unique_name": "Badge2Badge",
+    "homepage": "https://github.com/mallyhubz/Tildagon_Badge2Badge",
+    "description": "Connect 2 Tildagons back to back with a SATA cable to make local networked Apps. Bonus feature: Solder a Grove header instead and connect GPIO modules.",
+    "shop_link": "https://github.com/mallyhubz/Tildagon_Badge2Badge/blob/main/README.md",
+    "image_url": "images/Badge2Badge.jpg"
   }
 ]
