@@ -55,3 +55,11 @@
     "image_url": "images/groveybaby.jpg"
   }
 ]
+{
+    "maker": "Jade Pickering & Matthew Doyle",
+    "unique_name": "Orion Starspansion",
+    "homepage": "https://github.com/jspickering/orion-hexpansion",
+    "description": "Display the Orion constellation in LEDs with a 3D printed chassis and acrylic top",
+    "shop_link": "https://github.com/jspickering/orion-hexpansion/blob/main/README.md",
+    "image_url": "images/orion_starspansion.jpg"
+}
